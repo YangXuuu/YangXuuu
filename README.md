@@ -8,7 +8,7 @@ Interested in using computational approaches to understand biology
 
 A statistics fan! (probability theory is not friend to me) (ggplot2 YYDS)
 
-R is the best
+R is not the best but my favourite
 
 ...
 
