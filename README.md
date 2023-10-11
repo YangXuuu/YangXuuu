@@ -4,6 +4,8 @@ B.S, Biochemistry and Molecular Biology & Nutrition Science, Usyd
 
 M.S, Biomedical Data Science, NTU
 
+PhD, Uni of Melbourne
+
 
 Interested in using computational approaches to understand biology
 
